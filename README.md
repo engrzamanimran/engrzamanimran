@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+I am Zaman Imran, Electrical and Software Engineer.
 <!--
 **engrzamanimran/engrzamanimran** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
